@@ -1,0 +1,17 @@
+.d1{
+    float: left;
+    height: 150px;
+    width: 150px;
+    background-color: #308014;
+    border: 2px solid red;
+    margin: 5px;
+}
+.d2{
+    clear: left;
+    float: left;
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    border:2px solid #308014;
+    margin: 5px;
+}

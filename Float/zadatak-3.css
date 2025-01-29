@@ -1,0 +1,15 @@
+.jed{
+    float: left;
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+}
+.dva{
+    float: right;
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+}
+.p1{
+    font-size: 25px;
+}

@@ -1,0 +1,22 @@
+.d1{
+    float: left;
+    width: 50%;
+    background-color: red;
+    
+
+}
+.d2{
+    float: right;
+    width:50%;
+
+    background-color: cornflowerblue;
+
+}
+.d3{
+    float: none;
+    margin: 30px;
+    clear: both;
+    text-align: center;
+    background-color: greenyellow;
+    height: 200px;
+}
